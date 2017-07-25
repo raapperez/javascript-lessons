@@ -34,4 +34,4 @@ Visual Studios Code Extensions:
 
 1. Write a function that receives two numbers *a* and *b* and prints all numbers between *a* and *b* if a < b or do nothing if b >= a.
 1. Write a function that returns the nth element of a fibonacci sequence. A fibonacci sequence is a sequence where the nth element is a sum of the previous 2 elements. The first two elements are 1. Example:
-1st: 1, 2nd: 1, 3rd: 2, 4th: 3, 5th: 5, 6th: 8, 7th: 12
+1st: 1, 2nd: 1, 3rd: 2, 4th: 3, 5th: 5, 6th: 8, 7th: 13
