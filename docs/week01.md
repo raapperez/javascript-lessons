@@ -18,11 +18,11 @@ Visual Studios Code Extensions:
 * Beautify css/sass/scss/less
 
 ### Having fun
-#### Hello world / print
+#### Hello world / print (console.log)
 #### let and const
 #### strings and numbers
 #### + - / * %
-#### booleans
+#### booleans (true and false)
 #### > >= < <= === !==
 #### && ||
 #### if and else
